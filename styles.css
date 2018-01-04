@@ -1,0 +1,45 @@
+body {
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+#container {
+	width: 300px;
+	font-size: 14px;
+	background-color: #F0F8FF;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  margin: 50px;
+  padding: 20px;
+	line-height: 27px;
+	box-shadow: 10px 10px 3px 0px #A9A9A9;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mainbody {
+	border: 1px solid #CCC;
+  border-radius: 5px;
+  padding: 20px;
+}
+.title {
+	font-weight: bolder;
+	font-size: 42px;
+	color: #696969;
+	text-align: center;
+  line-height: 40px;
+}
+.title:hover {
+	color: #00BFFF;
+}
+.picture {
+	width: 300px;
+}
+.interesting {
+	font-style: italic;
+}
+.item {
+	font-weight: bolder;
+}
+.list {
+	list-style-type: none;
+	list-style-position: outside;
+  padding: 0;
+}
